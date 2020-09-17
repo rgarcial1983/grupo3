@@ -119,10 +119,6 @@
           }
         }
       }
-    }
-  },
-  "defaultProject": "grupo3",
-  "cli": {
-    "analytics": false
-  }
+    }},
+  "defaultProject": "grupo3"
 }
